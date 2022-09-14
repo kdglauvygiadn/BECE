@@ -2,7 +2,7 @@
         const quizData = [
             {
             Num:"1",
-            question: "Nous allons aider Janet……………………..preparer le diner",
+            question: "Nous allons aider Janet……………………..préparer le diner",
             a: "pour",
             b: "de,
             c: "a",
@@ -11,7 +11,7 @@
             },
             {
             Num:"2",
-            question:  "Nos camarades qui habitent pres……………………..l'ecole viennent a pied.",            
+            question:  "Nos camarades qui habitent près……………………..l'école viennent a pied.",            
             a: "a",
             b: "de",
             c: "sur",
@@ -20,7 +20,7 @@
             },
             {
             Num:"3",
-            question: "Le professeur dit a Kojo\"……………………..ici tout de suitel.\"",            
+            question: "Le professeur dit a Kojo\"……………………..ici tout de suite.\"",            
             a:"vinnnent",
             b: "viens",
             c: "vient",
@@ -29,7 +29,7 @@
             },
             {
                 Num:"4",
-            question: "……………………..nouvellecole est sur une colline.",
+            question: "……………………..nouvelle école est sur une colline.",
             a: "Ton",
             b: "Ta",
             c: "Nos",
@@ -47,7 +47,7 @@
             },
             {
                 Num:"6",
-            question: "Chaque matin, nous faisons…………..dictee avant la premiere lecon",
+            question: "Chaque matin, nous faisons…………..dictée avant la première leçon",
             a: "du",
             b: "de",
             c: "un",
@@ -56,7 +56,7 @@
             },
             {
                 Num:"7",
-            question: "Voici ma soeur,………..a cinq enfants.",
+            question: "Voici ma sœur,………..a cinq enfants.",
             a: "elles",
             b: "elle",
             c: "ils",
@@ -68,13 +68,13 @@
                 question: "La calebasse est……………de pito.",
             a: "plein",
             b: "pleins",
-            c: "pleinne",
-            d: "pleinnes",
+            c: "pleine",
+            d: "pleines",
             correct: "c",
             },         
             {
                 Num:"9",
-            question: "C'est mon pere……………….est le mecanicien.",
+            question: "C'est mon père……………….est le mécanicien.",
             a:"dont",
             b: "qui", 
             c: "que",
@@ -93,24 +93,24 @@
             {
                 Num:"11",
             question: "Avant de manger on se lave les mains avec de l'eau……………………et du savon.",
-            a: "coloree",
+            a: "colorée",
             b: "propre",
-            c: "glacee",
-            d: "salee",
+            c: "glacée",
+            d: "salée",
             correct: "b",
             },
             {
                 Num:"12",
             question: "Il est dix heures a…………………………",
             a: "ma montre",
-            b: "mon magnetophone",
+            b: "mon magnétophone",
             c: "mon calendrier",
             d: "ma camera",
             correct: "a",
             },
             {
                 Num:"13",
-            question: "Abu n'a jamais eu d'accident avec son velo. C'est un bon……………………",
+            question: "Abu n'a jamais eu d'accident avec son vélo. C'est un bon……………………",
             a: "chauffeur",
             b: "pilote",
             c: "voyageur",
@@ -121,9 +121,9 @@
                 Num:"14",
             question: "Le citron, la pomme et l'avocat sont des……………………",
             a: "arbres",
-            b: "legumes",
+            b: "légumes",
             c: "fruits",
-            d: "herbres",
+            d: "herbes",
             correct: "c",
             },
             {
@@ -137,11 +137,11 @@
             },
             {
                 Num:"16",
-            question: "Ma chemise a des manches longues mais celle de mmon frere a des manches…………………….",
+            question: "Ma chemise a des manches longues mais celle de mon frère a des manches…………………….",
             a: "courtes",
             b: "larges",
             c: "lourdes",
-            d: "epaises",
+            d: "épaises",
             correct: "a",
             },
             {
@@ -159,7 +159,7 @@
             a: "habitude",
             b: "taille",
             c: "chair",
-            d: "coeur",
+            d: "cœur",
             correct: "b",
             },
             {
@@ -182,7 +182,7 @@
             },
             {
                 Num:"21",
-            question: "Peter est un  garcon……………………21……………………quinze ans.",
+            question: "Peter est un  garçon……………………21……………………quinze ans.",
             a: "a",
             b: "de",
             c: "en",
@@ -191,7 +191,7 @@
             },
             {
                 Num:"22",
-            question: "C'est l'enfant unique de ……………………22……………………famille. Il est calme, sage et obeissant.",
+            question: "C'est l'enfant unique de ……………………22……………………famille. Il est calme, sage et obéissant.",
             a: "sa",
             b: "son",
             c: "lui",
@@ -200,7 +200,7 @@
             },
             {
                 Num:"23",
-            question: "A l'ecole il travaille en ……………………23……………………les matieres.",
+            question: "A l'école il travaille en ……………………23……………………les matières.",
             a: "tout",
             b: "tous",
             c: "toute",
@@ -211,14 +211,14 @@
                 Num:"24",
             question: "Il est toujours ……………………24…………………… en classe.",
             a: "premier",
-            b: "premiere",
+            b: "première",
             c: "premiers",
-            d: "premieres",
+            d: "premières",
             correct: "a",
             },
             {
                 Num:"25",
-            question: "Quand il……………………25…………………… a l'ecole, il aide…………………………………………amis a balayer la ………………………………………… de classe,",
+            question: "Quand il……………………25…………………… a l'école, il aide…………………………………………amis a balayer la ………………………………………… de classe,", 
             a: "arrives",
             b: "arrive",
             c: "arrivent",
@@ -227,7 +227,7 @@
             },
             {
                 Num:"26",
-            question: "Quand il………………………………………… a l'ecole, il aide……………………26……………………amis a balayer la ………………………………………… de classe,",
+            question: "Quand il………………………………………… a l'école, il aide……………………26……………………amis a balayer la ………………………………………… de classe,",
             a: "ses",
             b: "s'est",
             c: "cet",
@@ -236,7 +236,7 @@
             },
             {
                 Num:"27",
-            question: "Quand il………………………………………… a l'ecole, il aide…………………………………………amis a balayer la ……………………27…………………… de classe,",
+            question: "Quand il………………………………………… a l'école, il aide…………………………………………amis a balayer la ……………………27…………………… de classe,",
             a: "sale",
             b: "salle",
             c: "salles",
@@ -247,8 +247,8 @@
                 Num:"28",
             question: "a……………………28……………………le bureau du professeur et a effacer…………………………………………tableau.",
             a: "nettoyez",
-            b: "nottoye",
-            c: "nettoye",
+            b: "nettoye",
+            c: "nettoyé",
             d: "nettoyer",
             correct: "d",
             },
@@ -263,7 +263,7 @@
             },
             {
                 Num:"30",
-            question: " C\'est……………………30……………………qui organise ses collegues a ranger les livres, les cahiers, les tables et les chaises.",
+            question: " C\'est……………………30……………………qui organise ses collègues a ranger les livres, les cahiers, les tables et les chaises.",
             a: "leur",
             b: "elle",
             c: "lui",
@@ -320,8 +320,7 @@
                 }
             
                 }
-                });
-           
+                });    
         
         
         
