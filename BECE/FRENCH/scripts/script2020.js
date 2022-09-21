@@ -2,25 +2,25 @@
         const quizData = [
             {
             Num:"1",
-            question: "Nous allons aider Janet……………………..préparer le diner",
+            question: "Nous allons aider Janet……………………..préparer le dîner",
             a: "pour",
             b: "de,
-            c: "a",
+            c: "à",
             d: "en",
             correct: "c",
             },
             {
             Num:"2",
             question:  "Nos camarades qui habitent près……………………..l'école viennent a pied.",            
-            a: "a",
+            a: "à",
             b: "de",
             c: "sur",
             d: "avec", 
-            correct: "b",
+            correct: "a",
             },
             {
             Num:"3",
-            question: "Le professeur dit a Kojo\"……………………..ici tout de suite.\"",            
+            question: "Le professeur dit à Kojo\"……………………..ici tout de suite.\"",            
             a:"vinnnent",
             b: "viens",
             c: "vient",
@@ -39,11 +39,11 @@
             {
                 Num:"5",
             question: "D'habitude les cours commencent………………huit heures",
-            a: "a",
+            a: "à",
             b: "de",
             c: "un",
             d: "une",
-            correct: "b",
+            correct: "a",
             },
             {
                 Num:"6",
@@ -101,7 +101,7 @@
             },
             {
                 Num:"12",
-            question: "Il est dix heures a…………………………",
+            question: "Il est dix heures à…………………………",
             a: "ma montre",
             b: "mon magnétophone",
             c: "mon calendrier",
@@ -218,7 +218,7 @@
             },
             {
                 Num:"25",
-            question: "Quand il……………………25…………………… a l'école, il aide…………………………………………amis a balayer la ………………………………………… de classe,", 
+            question: "Quand il……………………25…………………… à l'école, il aide…………………………………………amis à balayer la ………………………………………… de classe,", 
             a: "arrives",
             b: "arrive",
             c: "arrivent",
@@ -227,7 +227,7 @@
             },
             {
                 Num:"26",
-            question: "Quand il………………………………………… a l'école, il aide……………………26……………………amis a balayer la ………………………………………… de classe,",
+            question: "Quand il………………………………………… à l'école, il aide……………………26……………………amis à balayer la ………………………………………… de classe,",
             a: "ses",
             b: "s'est",
             c: "cet",
@@ -236,7 +236,7 @@
             },
             {
                 Num:"27",
-            question: "Quand il………………………………………… a l'école, il aide…………………………………………amis a balayer la ……………………27…………………… de classe,",
+            question: "Quand il………………………………………… à l'école, il aide…………………………………………amis à balayer la ……………………27…………………… de classe,",
             a: "sale",
             b: "salle",
             c: "salles",
@@ -245,7 +245,7 @@
             },
             {
                 Num:"28",
-            question: "a……………………28……………………le bureau du professeur et a effacer…………………………………………tableau.",
+            question: "à……………………28……………………le bureau du professeur et à effacer…………………………………………tableau.",
             a: "nettoyez",
             b: "nettoye",
             c: "nettoyé",
@@ -254,7 +254,7 @@
             },
             {
                 Num:"29",
-            question: "a…………………………………………le bureau du professeur et a effacer……………………29……………………tableau.",
+            question: "à…………………………………………le bureau du professeur et à effacer……………………29……………………tableau.",
             a: "du",
             b: "au",
             c: "le",
@@ -263,7 +263,7 @@
             },
             {
                 Num:"30",
-            question: " C\'est……………………30……………………qui organise ses collègues a ranger les livres, les cahiers, les tables et les chaises.",
+            question: " C\'est……………………30……………………qui organise ses collègues à ranger les livres, les cahiers, les tables et les chaises.",
             a: "leur",
             b: "elle",
             c: "lui",
